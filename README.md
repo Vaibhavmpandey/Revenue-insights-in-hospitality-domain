@@ -4,7 +4,7 @@
 ### A hotel chain company noticed a loss in their market share and revenue over a few months. To understand the cause of this loss, they needed a way to analyze this.
 
 ## Solution
-### Three months of data is taken for creating a dashboard in Power BI to visualize the performance of the hotels overall, filtered by city and individual hotels as well.
+Three months of data is taken for creating a dashboard in Power BI to visualize the performance of the hotels overall, filtered by city and individual hotels as well.
 ![image](https://user-images.githubusercontent.com/117555175/232653718-6c0f1860-c6de-4bd2-8d2c-4d07d55fcc72.png)
 ![image](https://user-images.githubusercontent.com/117555175/232656921-e55f285d-b5cd-4e3d-9fab-c62aebb6397e.png)
 ![image](https://user-images.githubusercontent.com/117555175/232657020-fb5c310d-5d6d-4589-b039-d08053b415e5.png)
