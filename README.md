@@ -17,13 +17,13 @@
 
 
 ## Steps involved
-1- Data cleaning in SQL
-2- Data transformation in Power BI
-3- Creating Measures
-4- Dashboarding
+1- Data cleaning in SQL  
+2- Data transformation in Power BI  
+3- Creating Measures  
+4- Dashboarding  
 
 ### Note
-For Hospitality industry weekend is considered on Friday and Saturday
+For Hospitality industry weekend is considered on Friday and Saturday  
 
 ## Important observations
 1- From this dashboard we can come to a conclusion that this hotel chain is not using dynamic pricing so to increase its revenue we can have dynamic pricing based on weekday/weekend.  
